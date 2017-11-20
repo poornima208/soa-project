@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <transaction>
+    <transactionID>T001</transactionID>
+    <orders>
+      <OrderID>Order_1</OrderID>
+    </orders>
+    <transactionDate>15-Feb-2017</transactionDate>
+    <transactionDescription>Charger</transactionDescription>
+    <transactionAmount>10.99</transactionAmount>
+    <make>Dodge</make>
+    <model>Charger</model>
+    <year> 2015</year>
+    <quantity>10</quantity>
+    <unitPrice>1.99</unitPrice>
+    <employees>
+      <employeeID>emp_002</employeeID>
+    </employees>
+    <pricing>
+      <priceID>price_1</priceID>
+      <discount>No</discount>
+      <driverPrice>20.99</driverPrice>
+      <rate>25.99</rate>
+      <surcharge>2.50</surcharge>
+    </pricing>
+    <trucks>
+      <truckNo>truck_192</truckNo>
+      <VIN>1HJK124HM09FB6G53</VIN>
+      <runNumber>23254</runNumber>
+    </trucks>
+      <special>NA</special>
+  </transaction>
+  <transaction>
+    <transactionID>T002</transactionID>
+    <OrderID>Order_2</OrderID>
+    <priceID>price_2</priceID>
+    <transactionDate>02-Feb-2017</transactionDate>
+    <transactionDescription>BMW_X3</transactionDescription>
+    <transactionAmount>150.99</transactionAmount>
+    <trucks>
+      <make>BMW</make>
+      <model>X3</model>
+      <year> 2016</year>
+      <employeeID>emp_005</employeeID>
+      <truckNo>truck_75</truckNo>
+      <discount>Yes</discount>
+      <quantity>20</quantity>
+      <unitPrice>35000</unitPrice>
+      <driverPrice>20.99</driverPrice>
+      <VIN>MJKF12HB6190H4G53</VIN>
+      <runNumber>12478</runNumber>
+      <special>NA</special>
+      <rate>50.99</rate>
+      <surcharge>5.99</surcharge>
+    </trucks>
+  </transaction>
+</transactions>

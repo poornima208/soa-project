@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <comment>
+    <commentID>C132</commentID>
+    <commentTime>21:00</commentTime>
+    <commentDate>05/11/16</commentDate>
+    <commentType>123</commentType>
+  </comment>
+  <comment>
+    <commentID>C345</commentID>
+    <commentTime>23:00</commentTime>
+    <commentDate>08/25/16</commentDate>
+    <commentType>0796</commentType>
+  </comment>
+</comments>

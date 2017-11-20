@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payments xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <payment>
+    <PaymentID>T001</PaymentID>
+    <OrderID>Order_1</OrderID>
+    <PaymentMethodID>15-Feb-2017</PaymentMethodID>
+    <PaymentAmount>5.99</PaymentAmount>
+    <PaymentDate>2017-05-01</PaymentDate>
+    <CreditCard>Dodge</CreditCard>
+    <CreditCardNumber>Charger</CreditCardNumber>
+    <CardholdersName> 2015</CardholdersName>
+    <CreditCardExpDate>emp_002</CreditCardExpDate>
+    <CreditCardAuthorizationNumber>price_1</CreditCardAuthorizationNumber>
+  </payment>
+  <payment>
+    <PaymentID>T003</PaymentID>
+    <OrderID>Order_2</OrderID>
+    <PaymentMethodID>15-Feb-2017</PaymentMethodID>
+    <PaymentAmount>8.99</PaymentAmount>
+    <CreditCard>Dodge</CreditCard>
+    <CreditCardNumber>Charger</CreditCardNumber>
+    <CardholdersName> 2015</CardholdersName>
+    <CreditCardExpDate>emp_002</CreditCardExpDate>
+    <CreditCardAuthorizationNumber>price_1</CreditCardAuthorizationNumber>
+  </payment>
+</payments>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<employee>
+<employeeID> E1 </employeeID>
+<Name>
+<FirstName>sai</FirstName>
+<LastName>Baba</LastName>
+</Name>
+<emailId>jfj@gmail.com</emailId>
+<extension>5645</extension>
+<homePhone>25346457</homePhone>
+<cellPhone>90859458753</cellPhone>
+<jobTitle>Engineer</jobTitle>
+<SSN>958304</SSN>
+<LicenseNum>983385</LicenseNum>
+<address>
+<city>Chicago</city>
+<state>Illinois</state>
+<postalCode>60616</postalCode>
+</address>
+<bday>01 Jan</bday>
+<dateHire>09092010</dateHire>
+<salary>9896</salary>
+<notes>abcdefghijklmnopqurstuvwxyz</notes>
+</employee>
+</employees>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <order>
+    <orderID>3452345 </orderID>
+    <orderDate>05/05/16</orderDate>
+    <customerID>C1</customerID>
+    <employeeID>E10</employeeID>
+    <truckID>9876543</truckID>
+    <isSpecial>No</isSpecial>
+    <purchaseOrderNumber>213424</purchaseOrderNumber>
+    <orderTotalAmount>600000</orderTotalAmount>
+  </order>
+  <order>
+    <orderID>7865465 </orderID>
+    <orderDate>05/15/16</orderDate>
+    <customerID>C2</customerID>
+    <employeeID>E14</employeeID>
+    <truckID>9879687</truckID>
+    <isSpecial>No</isSpecial>
+    <purchaseOrderNumber>213447</purchaseOrderNumber>
+    <orderTotalAmount>1000000</orderTotalAmount>
+  </order>
+</orders>

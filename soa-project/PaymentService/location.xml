@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<location>
+<locID> L1</locID>
+<locName>Chicago</locName>
+<locCode> 60616</locCode>
+<isAuction>No</isAuction>
+<customerID>C1</customerID>
+<address>
+<street1>3001</street1>
+<street2>South king drive</street2>
+<city> Chicago</city>
+<state>Illinois</state>
+<postalCode>60616</postalCode>
+<country>USA</country>
+</address>
+<locContactName>Shri</locContactName>
+<locPhoneNum> 897583465</locPhoneNum>
+<locFaxNumber>9684458</locFaxNumber>
+<locEmailId> djfs12@ymail.com</locEmailId>
+</location>
+</locations>

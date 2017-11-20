@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pricing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <shippingLocation>
+    <priceID>1234</priceID>
+    <locationIDFrom>1234</locationIDFrom>
+    <locationIDTo>10234</locationIDTo>
+    <locationCodeFrom>A123</locationCodeFrom>
+    <locationCodeTo>A234</locationCodeTo>
+    <locationNameFrom>Chicago</locationNameFrom>
+    <locationNameTo>Dallas</locationNameTo>
+    <customerID>C1</customerID>
+  </shippingLocation>
+  <shippingLocation>
+    <priceID>5678</priceID>
+    <locationIDFrom>9877</locationIDFrom>
+    <locationIDTo>13245</locationIDTo>
+    <locationCodeFrom>A432</locationCodeFrom>
+    <locationCodeTo>A256</locationCodeTo>
+    <locationNameFrom>New York</locationNameFrom>
+    <locationNameTo>Miami</locationNameTo>
+    <customerID>C2</customerID>
+  </shippingLocation>
+</pricing>

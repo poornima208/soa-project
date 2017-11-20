@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<customer>
+<customerID>C1</customerID>
+<CustomerTitle>Mr</CustomerTitle>
+<BusinessName>XYZ</BusinessName>
+<BillingAddress>
+<city>Chicago</city>
+<state>Illinois</state>
+<postalcode>60616</postalcode>
+<country>USA</country>
+</BillingAddress>
+<contactDetails>
+<phoneNumber>65238238</phoneNumber>
+<cellNumber>5686663</cellNumber>
+<otherNumber>90088565</otherNumber>
+<faxNumber>765436</faxNumber>
+<email>axs@gmail.com</email>
+</contactDetails>
+<type>Active</type>
+<companyDetails>
+<Name> abcd</Name>
+<contact>sai</contact>
+<alternateContact>Ram</alternateContact>
+<dateEntered>2016-09-01</dateEntered>
+</companyDetails>
+</customer>
+</customers>

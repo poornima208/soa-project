@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trucks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+<truck>
+<truckNo>truck_192</truckNo>
+<make>Dodge</make>
+<year>2015</year>
+<model>Charger</model>
+<licenseplateNo>TX 1902</licenseplateNo>
+<employeeID>emp_001</employeeID>
+<color>black</color>
+<VIN>1HJK124HM09FB6G53</VIN>
+<truckcost>1812</truckcost>
+</truck>
+<truck>
+<truckNo>truck_75</truckNo>
+<make>BMW</make>
+<year>2016</year>
+<model>X3</model>
+<licenseplateNo>IL 2432</licenseplateNo>
+<employeeID>emp_005</employeeID>
+<color>red</color>
+<VIN>MJKF12HB6190H4G53</VIN>
+<truckcost>1123</truckcost>
+</truck>
+</trucks>

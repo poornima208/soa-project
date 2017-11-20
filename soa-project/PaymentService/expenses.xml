@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expenses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+<expense>
+<expenseID>exp_001</expenseID>
+<employeeID>emp_002</employeeID>
+<expensetype>Diesel/ Gas</expensetype>
+<purposeofexpense>travel</purposeofexpense>
+<amountspent>1500</amountspent>
+<description>shipment to chicago</description>
+<datepurchased>21-Feb-2017</datepurchased>
+<datesubmitted>15-Feb-2017</datesubmitted>
+<advanceamount>1000</advanceamount>
+<paymentmethod>credit</paymentmethod>
+</expense>
+<expense>
+<expenseID>exp_002</expenseID>
+<employeeID>emp_005</employeeID>
+<expensetype>Truck Maintenance</expensetype>
+<purposeofexpense>issue</purposeofexpense>
+<amountspent>421</amountspent>
+<description>engine issue</description>
+<datepurchased>09-Feb-2017</datepurchased>
+<datesubmitted>02-Feb-2017</datesubmitted>
+<advanceamount>2000</advanceamount>
+<paymentmethod>debit</paymentmethod>
+</expense>
+</expenses>
